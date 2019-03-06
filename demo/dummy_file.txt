@@ -5,7 +5,6 @@ eric.huang
 guoling.kong
 haiyang.liu
 long.wang2
-nan.zhou
 pavel.ding
 peng.peng
 qizhuang.shen
