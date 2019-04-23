@@ -4,7 +4,6 @@ da.yuan
 eric.huang
 guoling.kong
 haiyang.liu
-long.wang2
 pavel.ding
 peng.peng
 qizhuang.shen
@@ -13,9 +12,7 @@ ting.cui
 wenxi.han
 xuehai.liu
 xuejiao.wang
-yufeng.gu
 zhao.wang
-zihang.zhang
 qizhuang.shen
 allen.pan
 bin.he
