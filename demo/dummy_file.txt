@@ -1,6 +1,5 @@
 1qaz2wsx3edc
 bin.he
-bob.xie
 changsong.xia
 da.yuan
 eric.huang
@@ -10,11 +9,7 @@ long.wang2
 peng.peng
 pavel.ding
 qizhuang.shen
-Shan.zou
 shan.zou
-ting.cui
-wenxi.han
-xianhui.Zhang
 xianhui.zhang
 xuehai.liu
 xuejiao.wang
@@ -22,12 +17,10 @@ zhao.wang
 yufeng.gu
 zihang.zhang
 chenxia.zhou
-chiqian.tang
 dapeng.lang
 hailei.zhang
 haimiao.li
 hongchao.zhang
-jason.sun1
 junfu.huang
 qiang.wei
 ze.liu
