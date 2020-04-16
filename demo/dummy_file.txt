@@ -10,7 +10,6 @@ peng.peng
 pavel.ding
 qizhuang.shen
 shan.zou
-xianhui.zhang
 xuehai.liu
 xuejiao.wang
 yanting.lu
